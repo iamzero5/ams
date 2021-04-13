@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+scripts
+*.DS_Store
+*.pyc
+__pycache__
