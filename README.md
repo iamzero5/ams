@@ -3,9 +3,9 @@ This system will be used for FLC's Asset management system. This is to help mana
 
 ### Built With
 
-*[Django](https://www.djangoproject.com/)
-*[Jquery](https://jquery.com/)
-*[Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [Django](https://www.djangoproject.com/)
+* [Jquery](https://jquery.com/)
+* [Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 ## Getting Started
 
